@@ -25,13 +25,14 @@ $(document).ready(function() {
 		$(".navbar-right li").toggleClass("active", false);
 		$(this).parent().toggleClass("active", true);
 
-		if ($(".navbar-collapse.collapse").hasClass("in")) {
+		 if ($(".navbar-collapse.collapse").hasClass("in")) {
 			$(".navbar-collapse.collapse").collapse('toggle');
 		}
-		
+
 		// // category info for small screens
-		$(".category_small p").text(newCategory);
-		
+		$(".category_small").text(newCategory);
 
 	});
+
+	$("footer").show();
 });

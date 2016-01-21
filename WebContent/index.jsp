@@ -22,9 +22,7 @@
 		<div class="page-header visible-md-block visible-lg-block"
 			style="height: 250px; border: none"></div>
 		<hr>
-		<div class="category_small">
-			<p class="visible-xs-block">${applicationScope.selectedCategory}</p>
-		</div>
+		
 
 		<ul class="timeline"
 			data-selectedCategory=${applicationScope.selectedCategory}>

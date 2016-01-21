@@ -10,13 +10,11 @@
 					class="icon-bar"></span> <span class="icon-bar"></span> <span
 					class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#">Nobel Prize timeline</a>
-			&nbsp;
-			&nbsp;
-			&nbsp;
-			&nbsp;
-			<img alt=""
-				src="img/wip.gif" height="65">
+
+			<a class="navbar-brand" href="#">Nobel Prize timeline <small
+				class="visible-xs-block category_small">${applicationScope.selectedCategory}</small></a>
+			&nbsp; &nbsp; &nbsp; &nbsp; <img alt="" src="img/wip.gif" height="65">
+
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->

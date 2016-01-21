@@ -5,7 +5,7 @@
 	<div id="credits">
 		<small> Data from <a href="http://www.nobelprize.org/" target="_blank">www.nobelprize.org</a> -
 			 Timelime template by <a href="http://codepen.io/betdream" target="_blank">betul</a> <br> - 
-			 Photo: Martin Luther King, Jr. Public domain, <a href="https://commons.wikimedia.org/wiki/File%3AUSMC-09611.jpg" target="_blank">via Wikimedia Commons</a>
+			 Photo: Malala Yousafzai by <a href="http://www.antonioolmos.com" target="_blank">Antonio Olmos</a>
 		</small>
 	</div>
 	<div id="copyright">
