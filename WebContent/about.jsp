@@ -8,7 +8,7 @@
 <title>about</title>
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="css/paper.css">
+<link rel="stylesheet" href="css/sandstone.css">
 </head>
 <body>
 
@@ -59,7 +59,7 @@
 							<th>frontend</th>
 						</tr>
 						<tr>
-							<td>timelime <a href="http://codepen.io/betdream"
+							<td>timelime template <a href="http://codepen.io/betdream"
 								target="_blank">betul</a></td>
 						</tr>
 						<tr>
@@ -68,8 +68,8 @@
 									Olmos</a></td>
 						</tr>
 						<tr>
-							<td><a href="http://bootswatch.com/paper/" target="_blank">bootswatch</a>
-								paper theme</td>
+							<td><a href="http://bootswatch.com/sandstone/" target="_blank">bootswatch</a>
+								sandstone theme</td>
 						</tr>
 					</tbody>
 				</table>

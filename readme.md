@@ -9,6 +9,6 @@ java, JSP,
 [json simple](http://code.google.com/p/json-simple/),
 
 #### frontend
-timelime [betul](http://codepen.io/betdream),
+timelime template [betul](http://codepen.io/betdream),
 photo of Malala Yousafzai by [Antonio Olmos](http://www.antonioolmos.com),
-[bootswatch](http://bootswatch.com/paper/) paper theme
+[bootswatch](http://bootswatch.com/sandstone/) sandstone theme

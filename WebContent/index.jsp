@@ -10,7 +10,7 @@
 <title>Nobel Prize timeline</title>
 
 <link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" href="css/paper.css">
+<link rel="stylesheet" href="css/sandstone.css">
 <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
