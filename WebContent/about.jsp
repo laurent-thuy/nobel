@@ -2,6 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>about</title>
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -16,8 +19,8 @@
 
 			<div class="col-md-10 col-md-offset-1">
 				<h3>Nobel Prize timeline</h3>
-				<h5>Simple timeline ordered by prize category. Backend
-					consumes Nobel Prize api.</h5>
+				<h5>Simple timeline ordered by prize category. Backend consumes
+					Nobel Prize api.</h5>
 				<p>
 					Website by <a href="mailto:laurent_soublin@hotmail.com">Laurent-Thuy
 						Soublin</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/laurent-thuy"
@@ -44,8 +47,8 @@
 								REST client</td>
 						</tr>
 						<tr>
-							<td><a href="http://code.google.com/p/json-simple/" target="_blank">json
-									simple</a></td>
+							<td><a href="http://code.google.com/p/json-simple/"
+								target="_blank">json simple</a></td>
 						</tr>
 					</tbody>
 				</table>
