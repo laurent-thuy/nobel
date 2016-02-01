@@ -59,7 +59,7 @@
 							<th>frontend</th>
 						</tr>
 						<tr>
-							<td>timelime template <a href="http://codepen.io/betdream"
+							<td>timeline template <a href="http://codepen.io/betdream"
 								target="_blank">betul</a></td>
 						</tr>
 						<tr>
