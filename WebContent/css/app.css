@@ -1,0 +1,16 @@
+body {
+	height: 2000px;
+}
+
+.page-header {
+	background-image: url("../img/malala.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 5px;
+	height: 250px;
+	border: none;
+}
+
+#smallCategoryLabel {
+	font-size: 0.5em;
+}

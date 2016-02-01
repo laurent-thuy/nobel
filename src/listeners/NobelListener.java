@@ -27,10 +27,6 @@ public class NobelListener implements ServletContextListener {
 	public void contextInitialized(ServletContextEvent initEvent) {
 		ServletContext sc = initEvent.getServletContext();
 
-		// get year for footer or else
-		int year = java.time.LocalDate.now().getYear();
-		sc.setAttribute("year", year);
-
 		// get and process data from api
 		try {
 			List<Prize> prizes = PrizesParser.parsePrizes(PrizesFetcher.fetch());
@@ -40,9 +36,7 @@ public class NobelListener implements ServletContextListener {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
-		// set selected category to 'peace'
-		sc.setAttribute("selectedCategory", "peace");
+	
 	}
 
 }

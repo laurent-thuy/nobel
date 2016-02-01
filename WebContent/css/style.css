@@ -145,25 +145,3 @@
 .timeline-body>p+p {
 	margin-top: 5px;
 }
-
-footer {
-	text-align: center;
-	display: none;
-}
-
-.page-header {
-	background-image: url("../img/malala.png") ;
-	background-repeat: no-repeat;
-	background-size: cover;
-/* 	background-position:bottom; ; */
-	border-radius: 5px;	
-}
-.category_small{
-	text-align: left;
-	font-weight: normal;
-	font-style: italic;
-}
-
-.navbar-brand{
-	font-weight: bold;
-}
